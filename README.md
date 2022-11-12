@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning programming. So, I join in Github to meet with developers!
 - 💞️ Also, preparing Legal Professional Qualification Certificate Examination is my new challenge and opportunity to study things that I’m interested in.
 - 📫 I love movies, music, reading and travalling. They have become a reliable source of escape and comfort. They are deeply soothing!
-- 😄 Here is my motto：Stay foolish,stay hungry.
+- 😄 Here is my motto：Stay foolish, stay hungry.
 ### Contact Me
 - 💬 Email: yurong@hdu.edu.cn
 <!--
